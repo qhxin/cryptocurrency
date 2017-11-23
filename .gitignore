@@ -1,3 +1,4 @@
+.idea
 /bitcoin.datastore/
 *.class
 *.bin
@@ -20,4 +21,3 @@ hs_err_pid*
 .*
 
 wallet.json
-
